@@ -1,5 +1,5 @@
 print("created branch named efe_1")
-print("efe bişeyler yazıyor")
+print("efe something yazıyor")
 print("created branch named efe_2")
 print("added a new file to new-one branch")
 
